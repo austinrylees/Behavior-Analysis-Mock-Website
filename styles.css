@@ -1,0 +1,70 @@
+
+h2 {
+    color:rgb(211, 36, 36);
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p   {
+    color: sandybrown;
+    font-family: Arial, Helvetica, sans-serif;
+}
+li {
+    color: rgb(22, 21, 21);
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 20px;
+    list-style-type: disc;
+    /* text-shadow: 2px 2px lemonchiffon; */
+}
+label {
+    color: slateblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a { color: sandybrown;
+font-family: Arial, Helvetica, sans-serif;
+text-decoration: none;
+}
+caption {
+    color: sandybrown;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.toby {
+font-family: Arial, Helvetica, sans-serif;
+color: lightsalmon;
+}
+.toby.syd {
+
+    font-family: cursive;
+}
+h4 {
+    /* color:rgb(211, 36, 36); */
+    color: lightsalmon;
+}
+p {
+
+    color: rebeccapurple;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+
+    padding: 15px;
+
+}
+nav {
+    padding: 20px;
+    background-color: #f4f4f4;
+    box-sizing: border-box;
+}
+nav ul {
+
+    white-space: nowrap;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+nav li {
+
+    width: 25%;
+    display: inline-block;
+    font-size: 24px;
+}
